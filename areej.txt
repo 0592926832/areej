@@ -7,5 +7,5 @@ git add areej.txt
 
 git commit -m "I added a new file with my name that contains a mechanism for adding a modification to a repo that was created by someone else."
 
-git push origin branch-name
+git push origin areej
 
